@@ -44,7 +44,7 @@ Full Stack Software Developer and Cloud Engineer
 #### Work 
 
 [![Website Badge](https://img.shields.io/badge/Portfolio_Website-232C2E?style=for-the-badge&logo=atandt&logoColor=white
-)](https://toluolatubosun.com)
+)](https://toluolatubosun.com/portfolio)
 
 #### Profile Visits 
 
