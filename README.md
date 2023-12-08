@@ -32,6 +32,7 @@ Full Stack Software Developer and Cloud Engineer
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
