@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-Full Stack Software Developer and Cloud Engineer
+Software Engineer | AWS Cloud Engineer | Robotics Engineer
 
 :mailbox: Looking for me!
 
@@ -41,6 +41,8 @@ Full Stack Software Developer and Cloud Engineer
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 #### Work 
 
