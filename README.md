@@ -2,7 +2,15 @@
 
 Software Engineer | AWS Cloud Engineer | Robotics Engineer
 
-:mailbox: Looking for me!
+### Major Strengths 💪
+
+- <b>Backend</b> - TypeScript, Node.js, GraphQL (Apollo Server)
+- <b>Frontend</b> - React, Next.js, TailwindCSS
+- <b>Mobile</b> - React Native (Expo)
+- <b>Cloud</b> - AWS, Docker
+- <b>Robotics</b> - Electronics, Arduino, C++
+  
+### Looking for me! 📫
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/king_tolu_7)
@@ -12,6 +20,8 @@ Software Engineer | AWS Cloud Engineer | Robotics Engineer
 )](https://www.linkedin.com/in/john-olatubosun/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 )](https://medium.com/@toluolatubosun)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+)](https://www.youtube.com/@tolu-john)
 
 #### Technologies and Stack ⚡️
 
@@ -44,16 +54,16 @@ Software Engineer | AWS Cloud Engineer | Robotics Engineer
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-#### Work 
+#### Work 💼
 
 [![Website Badge](https://img.shields.io/badge/Portfolio_Website-232C2E?style=for-the-badge&logo=atandt&logoColor=white
 )](https://toluolatubosun.com/portfolio)
 
-#### Profile Visits 
+#### Profile Visits 🕵️‍♂️
 
 ![visitors](https://komarev.com/ghpvc/?username=toluolatubosun&style=for-the-badge)
 
-#### Github Stats 
+#### Github Stats 📈
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=toluolatubosun&count_private=true&theme=dark)
  
