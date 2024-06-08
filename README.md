@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-Software Engineer | AWS Cloud Engineer | Robotics Engineer
+I'm a Software Engineer with 5+ years of building experience and a strong background in backend (typescript/nodejs), cloud computing (AWS/docker/databases), mobile development (react-native/expo) and frontend (React/NextJS/Tailwind).
 
 ### Major Strengths 💪
 
@@ -8,12 +8,10 @@ Software Engineer | AWS Cloud Engineer | Robotics Engineer
 - <b>Frontend</b> - React, Next.js, TailwindCSS
 - <b>Mobile</b> - React Native (Expo)
 - <b>Cloud</b> - AWS, Docker
-- <b>Robotics</b> - Electronics, Arduino, C++
+- <b>Robotics</b> - Electronics, Arduino
   
 ### Looking for me! 📫
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/king_tolu_7)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/king_tolu_/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -22,19 +20,19 @@ Software Engineer | AWS Cloud Engineer | Robotics Engineer
 )](https://medium.com/@toluolatubosun)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )](https://www.youtube.com/@tolu-john)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+)](https://x.com/king_tolu_7)
 
 #### Technologies and Stack ⚡️
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++ Badge](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Nestjs Badge](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -45,6 +43,7 @@ Software Engineer | AWS Cloud Engineer | Robotics Engineer
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![PostgresSql Badge](https://img.shields.io/badge/PostgresSql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka Badge](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
