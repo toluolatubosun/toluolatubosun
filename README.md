@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-I'm a Software Engineer with 5+ years of building experience and a strong background in backend (typescript/nodejs), cloud computing (AWS/docker/databases), mobile development (react-native/expo) and frontend (React/NextJS/Tailwind).
-
-### Major Strengths 💪
-
-- <b>Backend</b> - TypeScript, Node.js, GraphQL (Apollo Server)
-- <b>Frontend</b> - React, Next.js, TailwindCSS
-- <b>Mobile</b> - React Native (Expo)
-- <b>Cloud</b> - AWS, Docker
-- <b>Robotics</b> - Electronics, Arduino
+I'm a seasoned Software Engineer, with 5+ years of building experience. My major strengths are in backend development (Node.js, Express, Nest.js, Django and GraphQL), cloud engineering (Linux, Docker, AWS), frontend development (React, Next.js), mobile development (React Native) and AI Engineering.
   
 ### Looking for me! 📫
 
