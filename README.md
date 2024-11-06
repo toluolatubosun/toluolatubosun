@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-I'm a seasoned Software Engineer, with 5+ years of building experience. My major strengths are in backend development (Node.js, Express, Nest.js, Django and GraphQL), cloud engineering (Linux, Docker, AWS), frontend development (React, Next.js), mobile development (React Native) and AI Engineering.
-  
+I am a seasoned Software Engineer with over 5 years of experience building software solutions. My expertise spans backend development (Node.js, Express, Nest.js, Django, and GraphQL), cloud engineering (Linux, Nginx, Docker, Terraform, Kubernetes, AWS), frontend development (React, Next.js), mobile development (React Native), and AI Engineering (Machine Learning, Vector Databases, LangChain, OpenAI API).
 ### Looking for me! 📫
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -40,9 +39,15 @@ I'm a seasoned Software Engineer, with 5+ years of building experience. My major
 ![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
+![LangChain Badge](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI Badge](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Terraform Badge](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
