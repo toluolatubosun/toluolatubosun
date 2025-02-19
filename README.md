@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-I am a seasoned Software Engineer with over 5 years of experience building software solutions. My expertise spans backend development (Node.js, Express, Nest.js, Django, and GraphQL), cloud engineering (Linux, Nginx, Docker, Terraform, Kubernetes, AWS), frontend development (React, Next.js), mobile development (React Native), and AI Engineering (Machine Learning, Vector Databases, LangChain, OpenAI API).
+I am a seasoned Software Engineer with over 5 years of experience building software solutions. My expertise spans backend development (Node.js, Express, Nest.js, Django and GraphQL), cloud engineering (Linux, Nginx, Docker, Kubernetes, AWS), frontend development (React, Next.js), mobile development (React Native), and AI Engineering (Machine Learning, Vector Databases, LangChain, OpenAI API)
+
 ### Looking for me! 📫
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -46,7 +47,6 @@ I am a seasoned Software Engineer with over 5 years of experience building softw
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform Badge](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
