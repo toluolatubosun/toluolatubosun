@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 
-I am a seasoned Software Engineer with over 5 years of experience building software solutions. My expertise spans backend development (Node.js, Express, Nest.js, Django and GraphQL), cloud engineering (Linux, Nginx, Docker, Kubernetes, AWS), frontend development (React, Next.js), mobile development (React Native), and AI Engineering (Machine Learning, Vector Databases, LangChain, OpenAI API)
+Backend-focused Software Engineer with 7+ years building production systems with TypeScript, Node.js, NestJS, FastAPI, and Python across fintech, SaaS, e-commerce, and APIs serving thousands of users. I also have strong experience in AI and Robotics, working with RAG systems, AI/ML model training and fine-tuning, vector databases, ROS2 and microcontrollers. Proficient with cloud infrastructure (Linux, Nginx, Docker, Kubernetes, AWS, Azure) and focused on building systems that are reliable, scalable, and solve real problems.
 
 ### Looking for me! 📫
 
@@ -40,9 +40,6 @@ I am a seasoned Software Engineer with over 5 years of experience building softw
 ![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-![LangChain Badge](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI Badge](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,6 +47,7 @@ I am a seasoned Software Engineer with over 5 years of experience building softw
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ROS 2 Badge](https://img.shields.io/badge/ROS2-339CF0?style=for-the-badge&logo=ros&logoColor=white)
 
 #### Work 💼
 
